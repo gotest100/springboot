@@ -1,0 +1,8 @@
+1. git init
+2. git add .
+3. git add "*.txt"
+4. git commit -m "add all text file"
+5. git status
+6. git log
+7. git remote add origin https://github.com/gotest100/springboot
+8. git push -u origin master
