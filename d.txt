@@ -6,3 +6,4 @@
 6. git log
 7. git remote add origin https://github.com/gotest100/springboot
 8. git push -u origin master
+9. git pull origin master   #pull from git repository
